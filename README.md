@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
