@@ -40,6 +40,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0771-jewels-and-stones) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
