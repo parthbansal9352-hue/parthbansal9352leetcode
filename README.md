@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0238-product-of-array-except-self) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0771-jewels-and-stones) |
 ## Sorting
@@ -51,4 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
