@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0238-product-of-array-except-self) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
