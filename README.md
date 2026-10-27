@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Database
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthbansal9352-hue/parthbansal9352leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
